@@ -26,24 +26,18 @@ Portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # Comprehensive CSS styles
 ├── script.js           # Interactive JavaScript functionality
-├── profile.jpg         # Profile image (to be added)
-├── resume.pdf          # Resume file (to be added)
+├── img.jpg         # Profile image (to be added)
+├── Resume.pdf          # Resume file (to be added)
 └── README.md           # Project documentation
 ```
 
 ## 🚀 Quick Start
 
 1. **Clone or download** the project files
-2. **Add your profile image** as `profile.jpg`
-3. **Add your resume** as `resume.pdf`
+2. **Add your profile image** as `img.jpg`
+3. **Add your resume** as `Resume.pdf`
 4. **Update content** in `index.html` with your information
 5. **Open** `index.html` in your browser
-
-## 📱 Responsive Breakpoints
-
-- **Desktop**: 1024px and above
-- **Tablet**: 768px - 1023px
-- **Mobile**: 320px - 767px
 
 ## 🎨 Color Scheme
 
@@ -62,28 +56,6 @@ Portfolio/
 5. **Education**: Timeline of academic journey
 6. **Contact**: Contact form and social links
 
-## 🔧 Customization
-
-### Updating Personal Information
-
-1. **Profile Image**: Replace `profile.jpg` with your photo
-2. **Resume**: Add your resume as `resume.pdf`
-3. **Social Links**: Update GitHub and LinkedIn URLs in `index.html`
-4. **Contact Email**: Update email address throughout the files
-5. **Projects**: Modify project information in both HTML and JavaScript
-
-### Styling Customization
-
-- Update CSS variables in `:root` for consistent theming
-- Modify animations and transitions in the CSS file
-- Adjust responsive breakpoints as needed
-
-### Adding New Sections
-
-1. Add HTML structure in `index.html`
-2. Add corresponding styles in `style.css`
-3. Update navigation links
-4. Add any required JavaScript functionality
 
 ## 🚀 Deployment
 
@@ -141,8 +113,5 @@ Feel free to fork this project and customize it for your own portfolio! If you h
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-**Made with ❤️ and lots of ☕ by Jyoti Rana**
 
 *"Passionate about AI & Data Science, always learning and building amazing things!"*
